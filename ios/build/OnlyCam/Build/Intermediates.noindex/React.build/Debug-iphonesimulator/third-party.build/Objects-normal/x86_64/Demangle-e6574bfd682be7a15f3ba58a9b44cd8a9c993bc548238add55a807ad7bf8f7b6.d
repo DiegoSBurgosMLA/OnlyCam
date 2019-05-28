@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/dsburgos/Desktop/Dev/Die/demos/miStepByStep/OnlyCam/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.cpp \
+  /Users/dsburgos/Desktop/Dev/Die/demos/miStepByStep/OnlyCam/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.h \
+  /Users/dsburgos/Desktop/Dev/Die/demos/miStepByStep/OnlyCam/node_modules/react-native/third-party/folly-2018.10.22.00/folly/FBString.h \
+  /Users/dsburgos/Desktop/Dev/Die/demos/miStepByStep/OnlyCam/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/dsburgos/Desktop/Dev/Die/demos/miStepByStep/OnlyCam/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/dsburgos/Desktop/Dev/Die/demos/miStepByStep/OnlyCam/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/dsburgos/Desktop/Dev/Die/demos/miStepByStep/OnlyCam/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/dsburgos/Desktop/Dev/Die/demos/miStepByStep/OnlyCam/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/dsburgos/Desktop/Dev/Die/demos/miStepByStep/OnlyCam/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/Hash.h \
+  /Users/dsburgos/Desktop/Dev/Die/demos/miStepByStep/OnlyCam/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/dsburgos/Desktop/Dev/Die/demos/miStepByStep/OnlyCam/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/dsburgos/Desktop/Dev/Die/demos/miStepByStep/OnlyCam/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/dsburgos/Desktop/Dev/Die/demos/miStepByStep/OnlyCam/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/dsburgos/Desktop/Dev/Die/demos/miStepByStep/OnlyCam/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV1.h \
+  /Users/dsburgos/Desktop/Dev/Die/demos/miStepByStep/OnlyCam/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /Users/dsburgos/Desktop/Dev/Die/demos/miStepByStep/OnlyCam/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/dsburgos/Desktop/Dev/Die/demos/miStepByStep/OnlyCam/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/dsburgos/Desktop/Dev/Die/demos/miStepByStep/OnlyCam/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/dsburgos/Desktop/Dev/Die/demos/miStepByStep/OnlyCam/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/dsburgos/Desktop/Dev/Die/demos/miStepByStep/OnlyCam/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/dsburgos/Desktop/Dev/Die/demos/miStepByStep/OnlyCam/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/Malloc.h \
+  /Users/dsburgos/Desktop/Dev/Die/demos/miStepByStep/OnlyCam/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/detail/MallocImpl.h \
+  /Users/dsburgos/Desktop/Dev/Die/demos/miStepByStep/OnlyCam/node_modules/react-native/third-party/folly-2018.10.22.00/folly/detail/Demangle.h
